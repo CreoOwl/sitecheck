@@ -1,0 +1,9 @@
+C:\Users\Никита\source\repos\SiteCheck\SiteCheck\bin\Debug\SiteCheck.dll
+C:\Users\Никита\source\repos\SiteCheck\SiteCheck\bin\Debug\SiteCheck.pdb
+C:\Users\Никита\source\repos\SiteCheck\SiteCheck\obj\Debug\SiteCheck.csproj.CoreCompileInputs.cache
+C:\Users\Никита\source\repos\SiteCheck\SiteCheck\obj\Debug\SiteCheck.dll
+C:\Users\Никита\source\repos\SiteCheck\SiteCheck\obj\Debug\SiteCheck.pdb
+C:\Users\Никита\source\repos\SiteCheck\SiteCheck\bin\Debug\Interface.dll
+C:\Users\Никита\source\repos\SiteCheck\SiteCheck\bin\Debug\Interface.pdb
+C:\Users\Никита\source\repos\SiteCheck\SiteCheck\obj\Debug\SiteCheck.csprojAssemblyReference.cache
+C:\Users\Никита\source\repos\SiteCheck\SiteCheck\obj\Debug\SiteCheck.csproj.CopyComplete
